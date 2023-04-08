@@ -24,3 +24,8 @@
     position: relative;
     text-shadow: 2px 2px 1px black;
 }
+#landing h1,p{
+    color: white;
+    text-align: center;
+    top: 440px;
+}
